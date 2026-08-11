@@ -1,32 +1,129 @@
-<h2><a href="https://leetcode.com/problems/reverse-integer">7. Reverse Integer</a></h2><h3>Medium</h3><hr><p>Given a signed 32-bit integer <code>x</code>, return <code>x</code><em> with its digits reversed</em>. If reversing <code>x</code> causes the value to go outside the signed 32-bit integer range <code>[-2<sup>31</sup>, 2<sup>31</sup> - 1]</code>, then return <code>0</code>.</p>
 
-<p><strong>Assume the environment does not allow you to store 64-bit integers (signed or unsigned).</strong></p>
+---
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+# 📊 Progress Tracker
 
-<pre>
-<strong>Input:</strong> x = 123
-<strong>Output:</strong> 321
-</pre>
+| Topic | Status |
+|------|--------|
+| Arrays | 🔄 In Progress |
+| Strings | 🔄 In Progress |
+| Linked List | 🔄 In Progress |
+| Stack & Queue | 🔄 In Progress |
+| Trees | ⏳ Upcoming |
+| Binary Search | ⏳ Upcoming |
+| Recursion | ⏳ Upcoming |
+| Dynamic Programming | ⏳ Upcoming |
+| Graphs | ⏳ Upcoming |
 
-<p><strong class="example">Example 2:</strong></p>
+---
 
-<pre>
-<strong>Input:</strong> x = -123
-<strong>Output:</strong> -321
-</pre>
+# 🧠 Problem Solving Approach
 
-<p><strong class="example">Example 3:</strong></p>
+For every problem, I follow this approach:
 
-<pre>
-<strong>Input:</strong> x = 120
-<strong>Output:</strong> 21
-</pre>
+✅ Understand the problem statement  
+✅ Analyze examples and constraints  
+✅ Find the optimal approach  
+✅ Write clean and readable code  
+✅ Analyze Time & Space Complexity  
+✅ Learn the underlying DSA pattern  
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+---
 
-<ul>
-	<li><code>-2<sup>31</sup> &lt;= x &lt;= 2<sup>31</sup> - 1</code></li>
-</ul>
+# 📌 Solved Problems
+
+| LeetCode # | Problem Name | Difficulty | Language |
+|------------|--------------|------------|----------|
+| 1 | Two Sum | Easy | Java |
+| 7 | Reverse Integer | Medium | Java |
+| 9 | Palindrome Number | Easy | Java |
+| 20 | Valid Parentheses | Easy | Java |
+| 121 | Best Time to Buy and Sell Stock | Easy | Java |
+
+*(This table will be updated regularly as I solve more problems.)*
+
+---
+
+# 🛠️ Tech Stack
+
+- ☕ Java
+- 🧩 Data Structures & Algorithms
+- 🔧 Git
+- 🐙 GitHub
+
+---
+
+# 🎯 Learning Goals
+
+- ✅ Start LeetCode Journey
+- ⬜ Solve 100+ Problems
+- ⬜ Solve 300+ Problems
+- ⬜ Master DSA Patterns
+- ⬜ Improve Problem Solving Skills
+- ⬜ Prepare for Product-Based Company Interviews
+
+---
+
+# 📈 DSA Topics Covered
+
+## Beginner
+- Arrays
+- Strings
+- Searching
+- Sorting
+- Hashing
+- Basic Mathematics
+
+## Intermediate
+- Linked List
+- Stack
+- Queue
+- Recursion
+- Backtracking
+- Trees
+- Binary Search
+
+## Advanced
+- Graphs
+- Dynamic Programming
+- Greedy Algorithms
+- Advanced Data Structures
+
+---
+
+# 📅 Daily Practice
+
+I follow a consistent practice routine:
+
+- Solve at least one LeetCode problem daily
+- Understand the approach instead of memorizing solutions
+- Revise previously solved problems
+- Optimize solutions whenever possible
+
+---
+
+# 🏆 Achievements
+
+🚀 Started my DSA journey through LeetCode  
+🚀 Building consistency with daily problem solving  
+🚀 Improving algorithmic thinking and coding skills  
+
+---
+
+# 🔗 Connect With Me
+
+### GitHub
+https://github.com/your-username
+
+### LinkedIn
+https://www.linkedin.com/in/shivam-sharma-a79a87375/
+
+---
+
+# ⭐ Support
+
+If you find this repository helpful, consider giving it a ⭐ star!
+
+---
+
+## 💡 Keep Learning, Keep Coding 🚀
