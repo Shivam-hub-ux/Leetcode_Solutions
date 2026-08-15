@@ -23,5 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [1920-build-array-from-permutation](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
