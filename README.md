@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0896-monotonic-array](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/0896-monotonic-array) |
 | [1920-build-array-from-permutation](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
