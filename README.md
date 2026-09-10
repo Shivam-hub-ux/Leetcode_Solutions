@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [1872-stone-game-viii](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
+| [2652-sum-multiples](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/2652-sum-multiples) |
 ## String
 |  |
 | ------- |
