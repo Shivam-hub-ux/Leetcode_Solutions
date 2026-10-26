@@ -46,14 +46,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [1382-balance-a-binary-search-tree](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/0100-same-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/0100-same-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/0100-same-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Shivam-hub-ux/Leetcode_Solutions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
